@@ -27,6 +27,7 @@ Este repositório é responsável pelo **frontend** da aplicação, desenvolvido
 - Dashboard com abas: Informações, Galeria, Artistas, Editar Dados, Ver Perfil Público
 - Navegação entre rotas públicas e privadas
 
+---
 
 ## 🛠️ Tecnologias
 
@@ -43,6 +44,8 @@ Este repositório é responsável pelo **frontend** da aplicação, desenvolvido
 ## 🚀 Deploy
 
 https://complexo-frontend.vercel.app/
+
+---
 
 ## ⚙️ Como rodar localmente
 
