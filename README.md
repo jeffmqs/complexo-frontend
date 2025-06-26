@@ -40,6 +40,8 @@ Este repositório é responsável pelo **frontend** da aplicação, desenvolvido
 
 ---
 
+🚀 Deploy: https://complexo-frontend.vercel.app/
+
 ## ⚙️ Como rodar localmente
 
 ```bash
